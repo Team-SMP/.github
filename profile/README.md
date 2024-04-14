@@ -1,5 +1,8 @@
 ## Team SMP
 
+![GitHub followers](https://img.shields.io/github/followers/Team-SMP?style=flat&logo=github)
+![Total GitHub stars]([https://img.shields.io/github/stars/Team-SMP?style=flat&logo=github](https://img.shields.io/github/stars/Team-SMP?style=flat&logo=github&label=total%20stars)
+
 Welcome to the official GitHub organisation of the Team SMP Minecraft server!
 <!--
 
