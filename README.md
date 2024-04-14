@@ -1,1 +1,1 @@
-# .github
+# Team SMP GitHub organisation
