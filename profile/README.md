@@ -1,9 +1,14 @@
 ## Team SMP
 
+**UNITE, SURVIVE, THRIVE!**
+
 ![GitHub followers](https://img.shields.io/github/followers/Team-SMP?style=flat&logo=github)
 ![Total GitHub Stars](https://img.shields.io/github/stars/Team-SMP?style=flat&logo=github&label=total%20stars)
 
 Welcome to the official GitHub organisation of the Team SMP Minecraft server!
+
+### About the websites...
+We tried 5 times. We failed. But now we have elysium and everything is fine. Hooray!
 <!--
 
 **Here are some ideas to get you started:**
